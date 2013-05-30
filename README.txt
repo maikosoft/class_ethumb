@@ -1,3 +1,5 @@
+This class help you to make a thumbnails from a image.
+I use this for make some galleries from a dir. 
 The class work with .jpg, .png and .gif files.
 
 Usage in HTML code:
